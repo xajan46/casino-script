@@ -2,7 +2,7 @@
 
 A modern, modular, and scalable **casino & slots** platform. Plug-and-play provider adapters, secure wallet, bonus/tournament engine, multi-currency & multi-language support, and a full admin dashboard for growth-focused operations.
 
-## ✨ Key Features
+## ✨ Casino Script Features
 
 - 🧩 **Game Providers (Modular)**: Slot, live casino, virtuals — adapter-based integration  
 - 🔌 **API-Ready Architecture**: Clean provider interfaces and launch flows (iframe/redirect)  
